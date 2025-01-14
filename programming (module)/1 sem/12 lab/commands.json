@@ -1,0 +1,16 @@
+{
+  "commands": [
+    {
+      "command": "create",
+      "args": ["folder", "newFolder"]
+    },
+    {
+      "command": "copy",
+      "args": ["1.txt", "2.txt"]
+    },
+    {
+      "command": "move",
+      "args": ["1.txt", "new"]
+    }
+  ]
+}
