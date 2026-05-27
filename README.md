@@ -90,3 +90,8 @@ https://cloud.agtu.ru/index.php/s/wHj9dbKCmiZXjwm
 
 Лекция и практические кейсы (для ознакомления с теоретической частью): NoSQL (СХиПБД)
 https://cloud.agtu.ru/index.php/s/FWM3qmKDABGfmGo
+
+
+
+
+https://cloud.agtu.ru/index.php/s/sHt6ZAHN6ksweFJ
