@@ -83,3 +83,10 @@ https://cloud.agtu.ru/index.php/s/wHj9dbKCmiZXjwm
  плата исправнаНеисправен бл
 о
 к питания → заменить БПИЛИ
+
+
+
+
+
+Лекция и практические кейсы (для ознакомления с теоретической частью): NoSQL (СХиПБД)
+https://cloud.agtu.ru/index.php/s/FWM3qmKDABGfmGo
